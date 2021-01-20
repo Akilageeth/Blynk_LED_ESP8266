@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
 
-const char* ssid     = "SLT-4G-76DE";
+const char* ssid     = "ENTER YOUR router ssid";
 const char* password = "1TQ1LAJ8F4H";
 
 WiFiServer server(80);
