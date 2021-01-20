@@ -1,5 +1,7 @@
 #include <ESP8266WiFi.h>
 
+// connect local wifi 
+
 
 const char* ssid     = "ENTER YOUR router ssid";
 const char* password = "NTER YOUR router password";
