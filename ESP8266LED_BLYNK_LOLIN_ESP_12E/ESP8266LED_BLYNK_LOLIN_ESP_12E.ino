@@ -2,7 +2,7 @@
 
 
 const char* ssid     = "ENTER YOUR router ssid";
-const char* password = "1TQ1LAJ8F4H";
+const char* password = "NTER YOUR router password";
 
 WiFiServer server(80);
 
